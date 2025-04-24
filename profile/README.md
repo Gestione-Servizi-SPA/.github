@@ -40,7 +40,7 @@ Siamo il motore che permette ai nostri clienti di rimanere tecnologicamente comp
 
 📄 P. IVA: 05512020727
 
-📞 Telefono: [080 350 22 10](tel:0803502210)
+📞 Telefono: [0803502210](tel:0803502210)
 
 📧 Email: [info@gestioneservizispa.it](mailto:info@gestioneservizispa.it)
 
