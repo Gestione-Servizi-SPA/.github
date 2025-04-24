@@ -1,8 +1,6 @@
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; margin-bottom: 10px">
-    <div style="border-radius: 15px; overflow: hidden; width: 150px; aspect-ratio: 1/1;">
-    <img src="./img/Logo_Gestione_Servizi_Esteso.png"/>
-    </div>
-</div>
+<p align="center">
+  <img src="./img/Logo_Gestione_Servizi_Esteso.png" alt="Logo" width="150" style="border-radius: 15px;" />
+</p>
 
 ## 🕐 La nostra storia
 
