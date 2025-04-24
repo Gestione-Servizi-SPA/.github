@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/Logo_Gestione_Servizi_Esteso.png" alt="Logo" width="150" style="border-radius: 15px;" />
+  <img src="./img/Logo_Gestione_Servizi_Esteso_Arrotondato.png" alt="Logo" width="150"/>
 </p>
 
 ## 🕐 La nostra storia
