@@ -36,7 +36,7 @@ Siamo il motore che permette ai nostri clienti di rimanere tecnologicamente comp
 
 ## 🧾 Contatti
 
-📍 Indirizzo: [Viale Agostino Dipierro, 66 - Noicattaro (BA) - Puglia - Italia](https://www.google.com/maps/place/Gestione+Servizi+Spa/)
+📍 Indirizzo: [Viale Agostino Dipierro, 66 - Noicattaro (BA) - Puglia - Italia](https://maps.app.goo.gl/HFwEVDHn4Sc3ZD9h9)
 
 📄 P. IVA: 05512020727
 
